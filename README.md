@@ -1,5 +1,7 @@
-I’m a designer who can code, but I tell people I’m a full‑stack developer who can design, because the order of those words strongly affects how much money you can make. 15+ years of experience. I work mostly with startups.
+### Greg Wolanski
 
-I believe in links and serendipity.
+I’m a designer who can code, but I tell people I’m a **full‑stack developer** who can design, because the order of those words strongly affects how much money you can make. **15+** years of experience. I work mostly with **startups**.
 
-[Learn more](https://gregwolanski.com?ref=github.com)
+I believe in links and serendipity. :)
+
+[Visit my website](https://gregwolanski.com?ref=github.com) & [Browse the repositories I have starred](https://github.com/gregwolanski?tab=stars)
